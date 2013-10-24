@@ -4,7 +4,7 @@
 //
 //  Created by xuqiang on 13-10-24.
 //  Copyright (c) 2013年 xuqiang. All rights reserved.
-//
+//可j阿坎大哈外交活动符合
 
 #import "AAAViewController.h"
 
